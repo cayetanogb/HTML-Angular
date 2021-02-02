@@ -4,8 +4,7 @@ import { InfoPaginaService } from 'src/app/services/info-pagina.service';
 @Component({
   selector: 'app-about',
   templateUrl: './about.component.html',
-  styles: [
-  ]
+  styles: ['./about.component.scss']
 })
 export class AboutComponent implements OnInit {
 
